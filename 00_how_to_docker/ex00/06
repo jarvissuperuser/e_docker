@@ -1,1 +1,1 @@
-/goinfre/tmugadza/homebrew/Cellar/docker/18.01.0/bin/docker container run --name overlord -p 80:5000 --network host -d nginx
+/goinfre/tmugadza/homebrew/Cellar/docker/18.01.0/bin/docker container run --name overlord -p 80:5000 --ip 192.168.99.100 --expose 5000 -d nginx
