@@ -1,0 +1,1 @@
+/goinfre/tmugadza/homebrew/Cellar/docker/18.01.0/bin/docker container run --name overlord -p 80:500 -d nginx
