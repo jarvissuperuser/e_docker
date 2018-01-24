@@ -1,1 +1,1 @@
-eval $(/goinfre/tmugadza/homebrew/Cellar/docker-machine/0.13.0/bin/docker-machine env Char)
+eval $(/goinfre/tmugadza/homebrew/bin/docker-machine env Char)
