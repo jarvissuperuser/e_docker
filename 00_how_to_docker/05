@@ -1,1 +1,1 @@
-/goinfre/tmugadza/homebrew/bin/docker run hello-world
+docker run hello-world
